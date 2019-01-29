@@ -1,0 +1,8 @@
+rectangle.iml
+.idea/workspace.xml
+.idea/uiDesigner.xml
+.idea/thriftCompiler.xml
+.idea/misc.xml
+.idea/encodings.xml
+.idea/compiler.xml
+target/
